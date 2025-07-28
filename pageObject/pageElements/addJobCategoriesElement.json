@@ -1,0 +1,25 @@
+
+{
+    "JobCat_Element":{
+        "clickJob_Link":":nth-child(2) > .oxd-topbar-body-nav-tab-item",
+        "clickJobCat_Link":":nth-child(4) > .oxd-topbar-body-nav-tab-link",
+        "addJobCatBtn_Link":".oxd-button",
+        "JobCatEditIcon_Link":"div[role='table'] div:nth-child(1) div:nth-child(1) div:nth-child(3) div:nth-child(1) button:nth-child(2) i:nth-child(1)",
+        "JobCatDelIcon_Link":"div[role='table'] div:nth-child(1) div:nth-child(1) div:nth-child(3) div:nth-child(1) button:nth-child(1) i:nth-child(1)",
+        "checkBox1_Link":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > label:nth-child(1) > span:nth-child(2) > i:nth-child(1)",
+        "checkBox2_Link":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > label:nth-child(1) > span:nth-child(2) > i:nth-child(1)",
+        "checkAllBox_Link":"div[role='columnheader'] i[class='oxd-icon bi-check oxd-checkbox-input-icon']",
+        "yesDelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--label-danger orangehrm-button-margin']",
+        "delSelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--label-danger orangehrm-horizontal-margin']",
+        "noCancelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--ghost orangehrm-button-margin']",
+        "dialogCloseBtn_Link":".oxd-dialog-close-button.oxd-dialog-close-button-position",
+        "enterValidName_Link":":nth-child(2) > .oxd-input",
+        "enterInvalidName_Link":":nth-child(2) > .oxd-input",
+        "saveBtn_Link":"button[type='submit']",
+        "cancelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--ghost']",
+        "errorMsg_Link":".oxd-text.oxd-text--span.oxd-input-field-error-message.oxd-input-group__message",
+        "PageTitle_Link":".oxd-text.oxd-text--h6.orangehrm-main-title"
+    }
+}
+
+

@@ -1,0 +1,19 @@
+{
+    "searchPage": {
+        "usernameSearch":":nth-child(2) > .oxd-input",
+        "subBtn":"button[type='submit']",
+        "invalUserSearch":":nth-child(2) > .oxd-input",
+        "reset_btn":"button.oxd-button--ghost",
+        "toggle_btn":"div.--toggle i",
+        "checkbox_link":":nth-child(2) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+        "deleteSelectedBtn":".orangehrm-horizontal-padding > div > .oxd-button",
+        "dialog_closeBtn":".oxd-dialog-close-button",
+        "delete_icon":":nth-child(2) > .oxd-table-row > :nth-child(6) > .oxd-table-cell-actions > :nth-child(1) > .oxd-icon",
+        "Yes_delete_btn":".oxd-button--label-danger",
+        "check_all":"div[role='columnheader'] i[class='oxd-icon bi-check oxd-checkbox-input-icon']",
+        "checkbox_link2":":nth-child(4) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon"
+        
+        
+        
+    }
+}

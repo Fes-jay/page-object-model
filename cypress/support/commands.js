@@ -23,3 +23,13 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+import LoginPage from "../../pageObject/LoginPage";
+
+Cypress.Commands.add('loginAsAdmin', () => {
+
+  const login = new LoginPage();
+  login.Login_page('Admin', 'admin123'); 
+});  
+
+import 'cypress-file-upload';
+

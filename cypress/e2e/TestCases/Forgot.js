@@ -11,8 +11,7 @@ describe("Page Object Model", () => {
         forgotPageElements.forgotPasswordLink();
         forgotPageElements.username();
         forgotPageElements.submitbtn();
-
-        
+        forgotPageElements.verifySubPage();
     });
  
 });

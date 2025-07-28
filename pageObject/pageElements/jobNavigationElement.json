@@ -1,0 +1,13 @@
+{
+   "Job_Navigation": {
+    "jobLink":".oxd-topbar-body-nav > ul > :nth-child(2)",
+    "jobTitleLink":"header[class='oxd-topbar'] li:nth-child(1) a:nth-child(1)",
+    "addBtn":"button[class='oxd-button oxd-button--medium oxd-button--secondary']",
+    "addJobTitleText":".oxd-text.oxd-text--h6.orangehrm-main-title",
+    "editIcon":"div[class='orangehrm-container'] div:nth-child(3) div:nth-child(1) div:nth-child(4) div:nth-child(1) button:nth-child(2) i:nth-child(1)",
+    "checkbox1_Link":":nth-child(1) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+    "Del_Sel_Btn":".orangehrm-horizontal-padding > div > .oxd-button",
+    "CloseDialog_Link":".oxd-dialog-close-button",
+    "DelButton_Link":"button[class='oxd-button oxd-button--medium oxd-button--label-danger orangehrm-button-margin']"
+    }
+}
