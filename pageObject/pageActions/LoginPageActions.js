@@ -1,6 +1,8 @@
-const loginElementLocators = require("../pageElements/LoginPageElement.json")
+ 
+ 
+ const loginElementLocators = require("../pageElements/LoginPageElement.json")
 
-class LoginPageElements{
+export class LoginPageElements{
 
     username(usernamee) {
         cy.get(loginElementLocators.LoginPageLocators.username_text).type(usernamee)

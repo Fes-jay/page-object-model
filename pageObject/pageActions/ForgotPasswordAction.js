@@ -1,4 +1,4 @@
-const forgotPasswordLocators = require("../pageElements/ForgotPasswordPage.json")
+ const forgotPasswordLocators = require("../pageElements/ForgotPasswordPage.json")
 
 class ForgotPageElements{
 

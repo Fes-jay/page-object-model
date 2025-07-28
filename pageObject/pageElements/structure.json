@@ -1,0 +1,7 @@
+{
+    "StructurePageLocators":{
+        "structure_link": ":nth-child(3) > .oxd-topbar-body-nav-tab-link",
+        "edit_btn" : ".oxd-switch-input",
+        "add_btn" : ".oxd-button"
+    }
+}
