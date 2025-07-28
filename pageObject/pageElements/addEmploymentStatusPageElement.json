@@ -15,7 +15,7 @@
         "getName_Link":":nth-child(2) > .oxd-input",
         "getErrorMsg_Link":".oxd-input-group > .oxd-text",
         "getSaveBtn_Link":"button[type='submit']",
-        "getCancelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--ghost']",
+        "getCancelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--ghost']", 
         
         "checkAllBoxes_Link":".oxd-table-row > :nth-child(1) > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon"
     }
