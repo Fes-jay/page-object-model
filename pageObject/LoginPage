@@ -1,0 +1,38 @@
+
+class LoginPage {
+
+
+    Login_page(username, password){
+        this.visitUrl();
+        this.getUsername(username);
+        this.getPassword(password)
+        this.loginbtn();
+        this.adminMenu();
+    }
+
+    visitUrl(){
+        cy.visit("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
+    }
+   
+    getUsername(username){
+        // cy.get("input[placeholder='Username']").type(username)
+        cy.get("input[placeholder='Username']").type(username)
+    }
+
+    getPassword(password){
+        cy.get("input[placeholder='Password']").type(password)
+
+    }
+
+    loginbtn(){
+        cy.get("button[type='submit']").click();
+
+    }
+
+    adminMenu(){
+        cy.get(".oxd-main-menu-item").contains('Admin').click();
+
+    }
+}
+
+export default LoginPage

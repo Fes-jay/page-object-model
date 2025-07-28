@@ -1,0 +1,8 @@
+{ 
+    "UserMgtPageLocators": {
+        "userManagementVisibility_txt":".oxd-topbar-body-nav-tab-item",
+        "userManagementDropdown_txt":"li[class='oxd-topbar-body-nav-tab --parent --visited'] i[class='oxd-icon bi-chevron-down']", 
+        "userVisibilty_txt":"li[class='oxd-topbar-body-nav-tab --parent --visited'] i[class='oxd-icon bi-chevron-down']"
+    }
+    
+}

@@ -1,0 +1,13 @@
+{
+    "jobPage_Element":{
+    "JobTitle_Link":":nth-child(2) > .oxd-input",
+    "JobDescrip_Link":":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-textarea",
+    "JobSpec_Link":".oxd-file-div",
+    "Note_Link":"textarea[placeholder='Add note']",
+    "SaveBtn_Lnk":"button[type='submit']",
+    "CancelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--ghost']",
+    "RequiredTxt":".oxd-input-group > .oxd-text"
+    
+
+    }
+}

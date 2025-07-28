@@ -1,0 +1,22 @@
+{
+    "EmployStat_Element":{
+        "job_Link":":nth-child(2) > .oxd-topbar-body-nav-tab-item",
+        "EmpStat_Link":"header[class='oxd-topbar'] li:nth-child(3) a:nth-child(1)",
+        "CorrectPage_txt":".oxd-text.oxd-text--h6.orangehrm-main-title",
+        "AddEmpStatBtn_Link":".oxd-button",
+        "EmpStatEditIcon_Link":"div[role='table'] div:nth-child(1) div:nth-child(1) div:nth-child(3) div:nth-child(1) button:nth-child(2) i:nth-child(1)",
+        "EmpStatDeleteIcon_Link":"div[role='table'] div:nth-child(1) div:nth-child(1) div:nth-child(3) div:nth-child(1) button:nth-child(1) i:nth-child(1)",
+        "checkBox1_Link":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > label:nth-child(1) > span:nth-child(2) > i:nth-child(1)",
+        "checkBox2_Link":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > label:nth-child(1) > span:nth-child(2) > i:nth-child(1)",
+        "DelSelBtn_Link":".orangehrm-horizontal-padding > div > .oxd-button",       
+        "yesDelBtn_Link":".orangehrm-modal-footer > .oxd-button--label-danger",
+        "noCancelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--ghost orangehrm-button-margin']",
+        "dialogCloseBtn_Link":".oxd-dialog-close-button.oxd-dialog-close-button-position",
+        "getName_Link":":nth-child(2) > .oxd-input",
+        "getErrorMsg_Link":".oxd-input-group > .oxd-text",
+        "getSaveBtn_Link":"button[type='submit']",
+        "getCancelBtn_Link":"button[class='oxd-button oxd-button--medium oxd-button--ghost']", 
+        
+        "checkAllBoxes_Link":".oxd-table-row > :nth-child(1) > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon"
+    }
+}

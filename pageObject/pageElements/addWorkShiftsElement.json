@@ -1,0 +1,24 @@
+{
+   "workShift_Element":{
+        "clickJob_Link":":nth-child(2) > .oxd-topbar-body-nav-tab-item",
+        "clickWorkShift_Link":".oxd-dropdown-menu > :nth-child(5)",
+        "addWorkShiftBtn_Link":".oxd-button",
+        "workShiftEditIcon_Link":":nth-child(1) > .oxd-table-row > :nth-child(6) > .oxd-table-cell-actions > :nth-child(2)",
+        "workShiftDelIcon_Link":":nth-child(1) > .oxd-table-row > :nth-child(6) > .oxd-table-cell-actions > :nth-child(1) > .oxd-icon",
+        "checkBox1_Link":":nth-child(1) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+        "checkBox2_Link":":nth-child(2) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+        "checkAllBox_Link":".oxd-table-row > :nth-child(1) > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+        "yesDelBtn_Link":".oxd-button--label-danger",
+        "delSelBtn_Link":".orangehrm-horizontal-padding > div > .oxd-button",
+        "noCancelBtn_Link":".oxd-button--ghost",
+        "dialogCloseBtn_Link":".oxd-dialog-close-button",
+        "enterValidName_Link":":nth-child(2) > .oxd-input",
+        "saveBtn_Link":".oxd-button--secondary",
+        "cancelBtn_Link":".oxd-button--ghost",
+        "errorMsg_Link":".oxd-input-group > .oxd-text')",
+        "PageTitle_Link":".orangehrm-card-container > .oxd-text--h6",
+        "assignEmployee_Link":".oxd-autocomplete-text-input > input",
+        "autocomplete1_Link":".oxd-autocomplete-dropdown > :nth-child(3)",
+        "autocomplete2_Link":".oxd-autocomplete-dropdown > :nth-child(2)"
+    }   
+} 

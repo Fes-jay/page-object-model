@@ -1,0 +1,21 @@
+
+{
+   "AddAndVerifyUser": {
+    "addbtn":"button[class='oxd-button oxd-button--medium oxd-button--secondary']",
+    "addUserTitle":".oxd-text.oxd-text--h6.orangehrm-main-title",
+    "savebtn":"button[type='submit']",
+    "PassWord_link":"input[type='password']",
+    "confirmPassword_link":"input[type='password']",
+    "username_link":":nth-child(4) > .oxd-input-group > :nth-child(2) > .oxd-input",
+    "cancelbtn":"button[class='oxd-button oxd-button--medium oxd-button--ghost']",
+    "weakPasMsg":".oxd-input-group > .oxd-text",
+    "Password_Mismatch":".oxd-input-group > .oxd-text",
+    "edit_Btn":"div[role='table'] div:nth-child(1) div:nth-child(1) div:nth-child(6) div:nth-child(1) button:nth-child(2) i:nth-child(1)",
+    "userRoleLink":":nth-child(1) > .oxd-input-group > :nth-child(2) > .oxd-select-wrapper > .oxd-select-text",
+    "userRoleNav":".oxd-select-dropdown"
+    }
+    
+}
+
+
+

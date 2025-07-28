@@ -1,0 +1,27 @@
+{
+   "PayGradeElement": {
+    "Job_Link":".oxd-topbar-body-nav > ul > :nth-child(2)",
+    "JobGrades_Link":".oxd-dropdown-menu > :nth-child(2)",
+    "addJobGradeBtn_Link":".oxd-button",
+    "verifyJobGradeTitle_Link":".orangehrm-card-container > .oxd-text--h6",
+    "editIcon_Link":"div[role='table'] div:nth-child(1) div:nth-child(1) div:nth-child(4) div:nth-child(1) button:nth-child(2) i:nth-child(1)",
+    "DeleteIcon_Link":"div[role='table'] div:nth-child(1) div:nth-child(1) div:nth-child(4) div:nth-child(1) button:nth-child(1) i:nth-child(1)",
+    "checkbox1_Link":":nth-child(1) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+    "checkbox2_Link":":nth-child(2) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+    "yesDeleteBtn_Link":".orangehrm-modal-footer > .oxd-button--label-danger",
+    "noCancelBtn_Link":".oxd-button--ghost",
+    "closeDialogBtn_Link":".oxd-dialog-close-button",
+    "enterName_Link":":nth-child(2) > .oxd-input",
+    "saveEnteredNameBtn_Link":".oxd-form-actions > .oxd-button--secondary",
+    "cancelEnteredNameBtn_Link":".oxd-button--ghost",
+    "addCurrencyBtn_Link":".orangehrm-action-header > .oxd-button",
+    "selectCurrency_Link":".oxd-select-text--after > .oxd-icon",
+    "minSalary_Link":":nth-child(2) > .oxd-grid-2 > :nth-child(1) > .oxd-input-group > :nth-child(2) > .oxd-input",
+    "maxSalary_Link":":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-input",
+    "saveAddCurrency_Link":":nth-child(2) > .oxd-form > .oxd-form-actions > .oxd-button--secondary",
+    "cancelAddCurrency_Link":":nth-child(2) > .oxd-form > .oxd-form-actions > .oxd-button--ghost",
+    "errorMsg_Link":".oxd-input-group > .oxd-text",
+    "deleteSel_Link":"button[class='oxd-button oxd-button--medium oxd-button--label-danger orangehrm-horizontal-margin']"
+
+    }
+}

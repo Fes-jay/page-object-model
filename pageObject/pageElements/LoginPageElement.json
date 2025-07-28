@@ -1,13 +1,8 @@
-{
-
-    
+{ 
     "LoginPageLocators": {
         "username_text":"input[placeholder='Username']",
         "password_text":"input[placeholder='Password']", 
         "login_btn":"button[type='submit']"
     }
     
-
-
-
 }

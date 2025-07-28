@@ -16,6 +16,11 @@ class ForgotPageElements{
          cy.get(forgotPasswordLocators.ForgotPasswordLocators.submit_btn).click();
         return
     }
+
+    verifySubPage() {
+         cy.get(forgotPasswordLocators.ForgotPasswordLocators.ver_Page).should('have.text', 'Reset Password link sent successfully')
+        return
+    }
 }
 
 export default ForgotPageElements
