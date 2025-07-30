@@ -1,0 +1,16 @@
+{
+    "EducationPageLocators": {
+          "education_link": ":nth-child(2) > .oxd-topbar-body-nav-tab-link",
+          "add": ".oxd-button",
+          "education_level" : ":nth-child(2) > .oxd-input",
+          "save" : ".oxd-button--secondary",
+          "cancel": ".oxd-button--ghost",
+          "checkbox": ".oxd-table-row > :nth-child(1) > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+          "a_user": ":nth-child(1) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+          "delete_selected": ".orangehrm-horizontal-padding > div > .oxd-button",
+          "yesdelete": ".orangehrm-modal-footer > .oxd-button--label-danger",
+          "no_cancel" : ".oxd-button--ghost",
+          "deleteicon": ".oxd-table-cell-actions > :nth-child(1) > .oxd-icon",
+          "editicon": ".oxd-table-cell-actions > :nth-child(2)"
+    }
+}

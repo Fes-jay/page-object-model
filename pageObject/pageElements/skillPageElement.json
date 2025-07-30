@@ -1,0 +1,21 @@
+{
+    "SkillPageLocators" :{
+
+        "skilllink": ":nth-child(1) > .oxd-topbar-body-nav-tab-link",
+        "dropdwn" : ":nth-child(4) > .oxd-topbar-body-nav-tab-item > .oxd-icon",
+        "addbtn" : ".oxd-button",
+        "savee" : ".oxd-button--secondary",
+        "descrip" : ".oxd-textarea",
+        "name" : ":nth-child(2) > .oxd-input",
+        "cancell" : ".oxd-button--ghost",
+        "checkboxx" : ".oxd-table-row > :nth-child(1) > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+        "delete_selected" : ".orangehrm-horizontal-padding > div > .oxd-button",
+        "yesyes_del" : ".orangehrm-modal-footer > .oxd-button--label-danger",
+        "no_can": "oxd-button--ghost" , 
+        "one_checkbox" : ".oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+        "delete" : ".oxd-table-cell-actions > :nth-child(1) > .oxd-icon",
+        "deldel" : ".oxd-button--label-danger",    
+        "editloc" : ".oxd-table-cell-actions > :nth-child(2) > .oxd-icon",
+        "cancel_edited"  : ".oxd-button--ghost"
+    }
+}
